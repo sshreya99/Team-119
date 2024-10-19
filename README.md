@@ -44,5 +44,5 @@
 
 #### Team Coordinator GitHub Username: rxdhikx24
 
-#### Team Members: Radhika Ravindra (rxdhikx24), Aayush Khandelwal, Shreya Shah (sshreya99), Priyansh Sanjaybhai Zinzuvadia
+#### Team Members: Radhika Ravindra (rxdhikx), Aayush Khandelwal, Shreya Shah (sshreya99), Priyansh Sanjaybhai Zinzuvadia
 
