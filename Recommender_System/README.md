@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project involves a medical chatbot system that interacts with patients to understand their symptoms and recommend a suitable doctor. The goal is to suggest doctors based on the patient's symptoms, pre-existing conditions, and the specialist type recommended by the chatbot. The system utilizes natural language processing (NLP) techniques to find similar symptoms from past patients and recommends the top doctors based on patient feedback and ratings.
+This recommender system involves a medical chatbot system (preceding steps) that interacts with patients to understand their symptoms and recommend a suitable doctor. The goal is to suggest doctors based on the patient's symptoms, pre-existing conditions, and the specialist type recommended by the chatbot. The system utilizes natural language processing (NLP) techniques to find similar symptoms from past patients and recommends the top doctors based on patient feedback and ratings.
 
 ## Data
 
