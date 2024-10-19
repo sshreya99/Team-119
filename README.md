@@ -9,10 +9,10 @@
 ##### An AI-powered chatbot that analyzes patient symptoms, asks follow-up questions, and recommends the right specialist—reducing wait times and ensuring accurate, timely care.
 
 
-#### A visual! ![image](https://github.com/user-attachments/assets/69acac5c-a894-4c9d-85b8-a4ec94d4f1a4)
 
 ![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/bigdatahackathon_sd_2024.png?raw=true "Big Data Hackathon for San Diego 2024")
-<img height="10%" width="50%" alt="HDMA" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/hdma2.png?raw=true"> 
+
+<img width="587" alt="Screenshot 2024-10-18 at 11 04 18 PM" src="https://github.com/user-attachments/assets/6b3a09a4-8a65-4431-9600-64d440b162f4">
 
 <!--
 #### Theme: Enhancing Healthcare’s Digital Front Door
@@ -44,5 +44,5 @@
 
 #### Team Coordinator GitHub Username: rxdhikx24
 
-#### Team Members: Radhika Ravindra (rxdhikx), Aayush Khandelwal, Shreya Shah (sshreya99), Priyansh Sanjaybhai Zinzuvadia
+#### Team Members: Radhika Ravindra (rxdhikx), Aayush Khandelwal (aayushkhandewal67), Shreya Shah (sshreya99), Priyansh Sanjaybhai Zinzuvadia (pzinzuvadia)
 
