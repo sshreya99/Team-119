@@ -6,7 +6,7 @@
 #### Team Name: Catalyst 
   
 #### Your team’s hackathon idea in One sentence:
-##### Finding the right specialist as per the patient health problems.
+##### An AI-powered chatbot that analyzes patient symptoms, asks follow-up questions, and recommends the right specialist—reducing wait times and ensuring accurate, timely care.
 
 
 #### A visual! ![image](https://github.com/user-attachments/assets/69acac5c-a894-4c9d-85b8-a4ec94d4f1a4)
