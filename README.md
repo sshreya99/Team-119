@@ -1,4 +1,4 @@
-### **Problem Statement: Gen AI-Powered Multimodal Healthcare Recommendation System**  
+### **Gen AI-Powered Chat-bot: Multimodal Healthcare Recommendation System**  
   
 
 1. **Problem:**  
@@ -27,7 +27,8 @@
    - 31% increase in accessibility to specialists.  
    - Improved recommendation accuracy through patient feedback analysis.  
    - Cost-efficient scaling of model performance for diverse query complexity.
-  
+
+
 --------------------------------------------
 ### 2024 BIG DATA HACKATHON PROPOSAL FORM
 
