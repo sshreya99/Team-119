@@ -1,3 +1,34 @@
+### **Problem Statement: Gen AI-Powered Multimodal Healthcare Recommendation System**  
+  
+
+1. **Problem:**  
+   - Patients face significant challenges in finding the right healthcare specialists due to language barriers, lack of accessibility, and complex medical jargon.  
+   - Traditional healthcare systems often fail to provide personalized, multimodal, and cost-effective recommendations.  
+
+2. **Objective:**  
+   - Build an AI-powered healthcare recommendation system that simplifies access to specialists, personalizes recommendations, and provides actionable medical insights in multiple languages.  
+
+3. **Proposed Solution:**  
+   - Leverage fine-tuned LLMs and RAG (Retrieval-Augmented Generation) to analyze patient data and match specialists based on symptoms and feedback.  
+   - Utilize visual language models (VLMs) to simplify complex medical reports for patients.  
+   - Design a dynamic LLM routing system to optimize processing efficiency and scalability.  
+
+4. **Target Impact:**  
+   - Improve accessibility by addressing 31% of patient difficulties in finding specialists.  
+   - Enhance recommendation accuracy by analyzing 10,000+ patient records.  
+   - Simplify medical decision-making with jargon-free summaries of medical reports.  
+
+5. **Technologies Used:**  
+   - **AI/ML:** Hugging Face Transformers, RAG, GPT-4o, Ranking Algorithms  
+   - **Data Tools:** Elasticsearch, LangChain  
+   - **DevOps:** Docker, Kubernetes  
+
+6. **Key Metrics:**  
+   - 31% increase in accessibility to specialists.  
+   - Improved recommendation accuracy through patient feedback analysis.  
+   - Cost-efficient scaling of model performance for diverse query complexity.
+  
+--------------------------------------------
 ### 2024 BIG DATA HACKATHON PROPOSAL FORM
 
 #### Team Number: 119
